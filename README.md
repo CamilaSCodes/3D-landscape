@@ -8,9 +8,7 @@ The 3D model in Blender was crafted as part of a project for a Computer Graphics
 
 Given the enriching experience of the project, I sought to extend its immersive potential by enabling user interaction through a 3D website. This repository contains the code associated with the project.
 
-**Tech Stack:**
-* HTML
-* CSS
-* JavaScript
-* Three.js
-* Vite
+### Technologies
+<img alt="Blender" src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white"/> <img alt="HTML" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/> <img alt="CSS" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/> <img alt="Vite" src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white"/> <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/> <img alt="Threejs" src="https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white"/>
+
+
